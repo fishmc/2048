@@ -1,1 +1,440 @@
-<mxfile host="www.draw.io" modified="2019-10-18T05:07:33.127Z" agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.90 Safari/537.36" etag="aF9h4ny2OF_nK1nLvkZe" version="12.1.0" type="github" pages="1"><diagram id="IVGt2weJujuLAUiGdIeN" name="Page-1">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</diagram></mxfile>
+<mxfile host="www.draw.io" modified="2019-10-22T07:50:30.439Z" agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.90 Safari/537.36" etag="polXFn4nVpfMf2RUec5R" version="12.1.3" type="github" pages="3">
+  <diagram id="IVGt2weJujuLAUiGdIeN" name="Page-1">
+    <mxGraphModel dx="1408" dy="748" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0"/>
+        <mxCell id="1" parent="0"/>
+        <mxCell id="lqy8UaG5r0MOgXNPxl1z-46" value="&lt;font style=&quot;font-size: 18px&quot;&gt;计算收益，除了&lt;br&gt;（mining_profit）收益金额字段：&lt;br&gt;涉及的表：&lt;br&gt;&lt;/font&gt;&lt;div style=&quot;font-size: 18px&quot;&gt;&lt;font style=&quot;font-size: 18px&quot;&gt;mining_profit&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 18px&quot;&gt;&lt;font style=&quot;font-size: 18px&quot;&gt;machine_lease&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 18px&quot;&gt;&lt;font style=&quot;font-size: 18px&quot;&gt;&lt;div&gt;&lt;font style=&quot;font-size: 18px&quot;&gt;dict_info&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 18px&quot;&gt;a_activity&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 18px&quot;&gt;a_activity_profit&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 16px&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 16px&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 16px&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 16px&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 16px&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 16px&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 16px&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 16px&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 16px&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 16px&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 16px&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 16px&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 16px&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 16px&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 16px&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 16px&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 16px&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 16px&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 16px&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 16px&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 16px&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 16px&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 16px&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 16px&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 16px&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 16px&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 16px&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 16px&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 16px&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 16px&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
+          <mxGeometry x="720" y="1300" width="750" height="790" as="geometry"/>
+        </mxCell>
+        <mxCell id="lqy8UaG5r0MOgXNPxl1z-33" value="&lt;font style=&quot;font-size: 18px&quot;&gt;通过第三方获取每日矿机收益：&lt;br&gt;mining_income&lt;/font&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
+          <mxGeometry x="720" y="1100" width="415" height="180" as="geometry"/>
+        </mxCell>
+        <mxCell id="lqy8UaG5r0MOgXNPxl1z-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="lqy8UaG5r0MOgXNPxl1z-1" target="lqy8UaG5r0MOgXNPxl1z-2" edge="1">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="lqy8UaG5r0MOgXNPxl1z-1" value="注册时&lt;br&gt;1.矿机数增一&lt;br&gt;2.没有保证金和租金&lt;br&gt;3.不做解冻保证金和返租金操作&lt;br&gt;4.也不算邀请人佣金" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="50" y="80" width="270" height="110" as="geometry"/>
+        </mxCell>
+        <mxCell id="lqy8UaG5r0MOgXNPxl1z-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="lqy8UaG5r0MOgXNPxl1z-2" target="lqy8UaG5r0MOgXNPxl1z-4" edge="1">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="lqy8UaG5r0MOgXNPxl1z-2" value="注册完成：&lt;br&gt;1.我的服务器，展示赠送矿机信息。&lt;br&gt;（到期显示时间为30天后）" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="50" y="270" width="270" height="110" as="geometry"/>
+        </mxCell>
+        <mxCell id="lqy8UaG5r0MOgXNPxl1z-4" value="我的收益：&lt;br&gt;1.挖矿产量：每天挖矿多少增加多少？&lt;font color=&quot;#ff3333&quot;&gt;（是自己的还是全网的）&lt;/font&gt;&lt;br&gt;2.租赁日期显示注册日期&lt;br&gt;3.状态：&lt;br&gt;3.1在注册送矿机期间如果自己兑换租矿机则在第30天发放收益，实际会到达账户。&lt;br&gt;3.2如果在赠送期间没有兑换则在第30天收益不发，记录清掉。&lt;font color=&quot;#ff3333&quot;&gt;（记录是什么记录？）&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="50" y="460" width="320" height="260" as="geometry"/>
+        </mxCell>
+        <mxCell id="lqy8UaG5r0MOgXNPxl1z-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="lqy8UaG5r0MOgXNPxl1z-6" target="lqy8UaG5r0MOgXNPxl1z-7" edge="1">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="lqy8UaG5r0MOgXNPxl1z-6" value="“我的”界面，&lt;br&gt;“推荐赚赏金”点击推荐&lt;br&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="520" y="60" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="lqy8UaG5r0MOgXNPxl1z-7" value="需要有矿机在运行，&lt;br&gt;才能邀请人。" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="520" y="200" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="lqy8UaG5r0MOgXNPxl1z-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="lqy8UaG5r0MOgXNPxl1z-9" target="lqy8UaG5r0MOgXNPxl1z-11" edge="1">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="lqy8UaG5r0MOgXNPxl1z-9" value="1. 通过用户名获取用户注册信息，判断是否存在&lt;br&gt;（是否存在）" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="185" y="1060" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="lqy8UaG5r0MOgXNPxl1z-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="lqy8UaG5r0MOgXNPxl1z-11" target="lqy8UaG5r0MOgXNPxl1z-13" edge="1">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="lqy8UaG5r0MOgXNPxl1z-11" value="2.通过判断用户是否发送验证码和数据库的验证码是否正确。&lt;br&gt;（&lt;br&gt;1.输入验证码是否为空&lt;br&gt;2.验证码的正确性&lt;br&gt;3.验证码是否超时&lt;br&gt;）" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="142.5" y="1200" width="325" height="130" as="geometry"/>
+        </mxCell>
+        <mxCell id="lqy8UaG5r0MOgXNPxl1z-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="lqy8UaG5r0MOgXNPxl1z-13" target="lqy8UaG5r0MOgXNPxl1z-15" edge="1">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="lqy8UaG5r0MOgXNPxl1z-13" value="3.添加用户，填充字段&lt;br&gt;（&lt;br&gt;1.获取parentid的邀请码&lt;br&gt;2.设置名字、ip等）&lt;br&gt;并插入memberid进数据库" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="142.5" y="1410" width="325" height="130" as="geometry"/>
+        </mxCell>
+        <mxCell id="lqy8UaG5r0MOgXNPxl1z-15" value="4.校验用户是否被邀请&lt;br&gt;（插入用户关系表，&lt;br&gt;如果&lt;br&gt;1. 有邀请人id的话，插入一级关系&lt;br&gt;2.邀请人有父级id的话，插入邀请人的父级关系里面）&lt;br&gt;如果memberid为空，或者邀请id为空，则返回false" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="142.5" y="1620" width="325" height="130" as="geometry"/>
+        </mxCell>
+        <mxCell id="lqy8UaG5r0MOgXNPxl1z-10" value="&lt;h1&gt;注册流程：&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="20" y="1050" width="150" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="lqy8UaG5r0MOgXNPxl1z-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="lqy8UaG5r0MOgXNPxl1z-17" target="lqy8UaG5r0MOgXNPxl1z-18" edge="1">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="lqy8UaG5r0MOgXNPxl1z-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="lqy8UaG5r0MOgXNPxl1z-17" target="lqy8UaG5r0MOgXNPxl1z-23" edge="1">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="lqy8UaG5r0MOgXNPxl1z-17" value="（&lt;span style=&quot;background-color: rgb(43 , 43 , 43) ; color: rgb(169 , 183 , 198) ; font-size: 11.3pt&quot;&gt;EarningsService -》&lt;/span&gt;&lt;span style=&quot;color: rgb(255 , 198 , 109) ; background-color: rgb(43 , 43 , 43) ; font-size: 11.3pt&quot;&gt;getEarnings&lt;/span&gt;&lt;span&gt;）&lt;/span&gt;&lt;br&gt;获取收益" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="616" y="470" width="374" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="lqy8UaG5r0MOgXNPxl1z-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="lqy8UaG5r0MOgXNPxl1z-23" target="lqy8UaG5r0MOgXNPxl1z-25" edge="1">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="lqy8UaG5r0MOgXNPxl1z-23" value="1.查找已结算的矿机" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1070" y="470" width="170" height="50" as="geometry"/>
+        </mxCell>
+        <mxCell id="lqy8UaG5r0MOgXNPxl1z-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="lqy8UaG5r0MOgXNPxl1z-25" target="lqy8UaG5r0MOgXNPxl1z-27" edge="1">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="lqy8UaG5r0MOgXNPxl1z-25" value="2.通过用户id和序列号查找矿机是否在续租" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1070" y="600" width="170" height="50" as="geometry"/>
+        </mxCell>
+        <mxCell id="lqy8UaG5r0MOgXNPxl1z-27" value="通过是否续租来判断矿机的状态是否为续租状态：&lt;br&gt;0.未运行&lt;br&gt;1.运行中&lt;br&gt;2.配置中" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1070" y="730" width="170" height="80" as="geometry"/>
+        </mxCell>
+        <mxCell id="lqy8UaG5r0MOgXNPxl1z-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="lqy8UaG5r0MOgXNPxl1z-18" target="lqy8UaG5r0MOgXNPxl1z-20" edge="1">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="lqy8UaG5r0MOgXNPxl1z-18" value="&lt;br&gt;查找指定id与时间的记录：&lt;br&gt;1.获取租机表的memberid等于用户id,&lt;br&gt;并且租机id等于租机收益id,&lt;br&gt;并且租机时间的租赁时间等指定时间" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="650" y="610" width="290" height="130" as="geometry"/>
+        </mxCell>
+        <mxCell id="lqy8UaG5r0MOgXNPxl1z-20" value="通过指定memberid和序列号，查找相应的过期时间。" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="700" y="820" width="190" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="lqy8UaG5r0MOgXNPxl1z-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="lqy8UaG5r0MOgXNPxl1z-29" target="lqy8UaG5r0MOgXNPxl1z-31" edge="1">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="lqy8UaG5r0MOgXNPxl1z-29" value="1.获取矿机数据" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="930" y="1170" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="lqy8UaG5r0MOgXNPxl1z-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="lqy8UaG5r0MOgXNPxl1z-31" target="lqy8UaG5r0MOgXNPxl1z-34" edge="1">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="lqy8UaG5r0MOgXNPxl1z-31" value="2.1.遍历昨天以前还没有结算的矿机" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1035" y="1355" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="lqy8UaG5r0MOgXNPxl1z-37" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="lqy8UaG5r0MOgXNPxl1z-34" target="lqy8UaG5r0MOgXNPxl1z-36" edge="1">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="lqy8UaG5r0MOgXNPxl1z-34" value="2.2从字典获取每日矿机收益" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1035" y="1495" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="lqy8UaG5r0MOgXNPxl1z-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="lqy8UaG5r0MOgXNPxl1z-36" target="lqy8UaG5r0MOgXNPxl1z-38" edge="1">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="lqy8UaG5r0MOgXNPxl1z-48" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="lqy8UaG5r0MOgXNPxl1z-36" target="lqy8UaG5r0MOgXNPxl1z-49" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1095" y="1775" as="targetPoint"/>
+            <Array as="points">
+              <mxPoint x="1095" y="2040"/>
+              <mxPoint x="1190" y="2040"/>
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lqy8UaG5r0MOgXNPxl1z-36" value="2.3每日遍历租机表，设置字段，并插入租机收益表里面（&lt;font color=&quot;#ff0d05&quot;&gt;除了收益字段&lt;/font&gt;）" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1035" y="1635" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="lqy8UaG5r0MOgXNPxl1z-41" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="lqy8UaG5r0MOgXNPxl1z-38" target="lqy8UaG5r0MOgXNPxl1z-40" edge="1">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="lqy8UaG5r0MOgXNPxl1z-38" value="2.4如果当前收益表的创建时间大于新版本的时间。新增冻结" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1270" y="1590" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="lqy8UaG5r0MOgXNPxl1z-43" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="lqy8UaG5r0MOgXNPxl1z-40" target="lqy8UaG5r0MOgXNPxl1z-42" edge="1">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="lqy8UaG5r0MOgXNPxl1z-40" value="2.4.1通过租机id号查看，活动挖矿收益表的数量" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1270" y="1730" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="lqy8UaG5r0MOgXNPxl1z-45" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="lqy8UaG5r0MOgXNPxl1z-42" target="lqy8UaG5r0MOgXNPxl1z-44" edge="1">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="lqy8UaG5r0MOgXNPxl1z-42" value="2.4.2通过租机时间，判断是否在活动中。" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1270" y="1870" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="lqy8UaG5r0MOgXNPxl1z-50" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="lqy8UaG5r0MOgXNPxl1z-44" target="lqy8UaG5r0MOgXNPxl1z-49" edge="1">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="lqy8UaG5r0MOgXNPxl1z-44" value="2.4.2如果有则，填充活动收益参数。" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1270" y="2010" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="lqy8UaG5r0MOgXNPxl1z-54" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="lqy8UaG5r0MOgXNPxl1z-49" target="lqy8UaG5r0MOgXNPxl1z-53" edge="1">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="lqy8UaG5r0MOgXNPxl1z-49" value="3.1查询pool1的信息&lt;br&gt;，比例为0.05" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1130" y="2180" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="lqy8UaG5r0MOgXNPxl1z-56" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="lqy8UaG5r0MOgXNPxl1z-53" target="lqy8UaG5r0MOgXNPxl1z-55" edge="1">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="lqy8UaG5r0MOgXNPxl1z-53" value="3.2查询租赁天数的信息&lt;br&gt;，天数为3天" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1130" y="2320" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="lqy8UaG5r0MOgXNPxl1z-58" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="lqy8UaG5r0MOgXNPxl1z-55" target="lqy8UaG5r0MOgXNPxl1z-57" edge="1">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="lqy8UaG5r0MOgXNPxl1z-55" value="3.3查找（挖矿收益表）已结算没有金额的数据，以及租机过期时间小于今天。" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1130" y="2460" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="lqy8UaG5r0MOgXNPxl1z-60" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="lqy8UaG5r0MOgXNPxl1z-57" target="lqy8UaG5r0MOgXNPxl1z-59" edge="1">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="lqy8UaG5r0MOgXNPxl1z-57" value="3.4通过上述结果:&lt;br&gt;统计租机ids,&lt;br&gt;通过租机ids去查询租机信息；" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1130" y="2600" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="lqy8UaG5r0MOgXNPxl1z-62" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="lqy8UaG5r0MOgXNPxl1z-59" target="lqy8UaG5r0MOgXNPxl1z-61" edge="1">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="lqy8UaG5r0MOgXNPxl1z-59" value="3.5租机id和挖矿收益表不一致，就排除。" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1130" y="2740" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="lqy8UaG5r0MOgXNPxl1z-64" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="lqy8UaG5r0MOgXNPxl1z-61" target="lqy8UaG5r0MOgXNPxl1z-63" edge="1">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="lqy8UaG5r0MOgXNPxl1z-61" value="3.6又把租机列表遍历，在复制新的租机列表。" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1130" y="2880" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="lqy8UaG5r0MOgXNPxl1z-66" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="lqy8UaG5r0MOgXNPxl1z-63" target="lqy8UaG5r0MOgXNPxl1z-65" edge="1">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="lqy8UaG5r0MOgXNPxl1z-68" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="lqy8UaG5r0MOgXNPxl1z-63" target="lqy8UaG5r0MOgXNPxl1z-67" edge="1">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="lqy8UaG5r0MOgXNPxl1z-63" value="3.7租机的过期金额大于今天，不计算金额" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1130" y="3020" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="lqy8UaG5r0MOgXNPxl1z-70" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="lqy8UaG5r0MOgXNPxl1z-67" target="lqy8UaG5r0MOgXNPxl1z-69" edge="1">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="lqy8UaG5r0MOgXNPxl1z-67" value="3.8获取矿池的租机（createtime-1）数据。" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1130" y="3160" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="lqy8UaG5r0MOgXNPxl1z-72" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="lqy8UaG5r0MOgXNPxl1z-69" target="lqy8UaG5r0MOgXNPxl1z-71" edge="1">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="lqy8UaG5r0MOgXNPxl1z-69" value="&lt;font color=&quot;#ff511c&quot;&gt;3.9money是否为空，空的话就是矿池的数据，非空的话，money加上矿池的挖矿数据。&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1130" y="3300" width="120" height="110" as="geometry"/>
+        </mxCell>
+        <mxCell id="lqy8UaG5r0MOgXNPxl1z-74" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="lqy8UaG5r0MOgXNPxl1z-71" target="lqy8UaG5r0MOgXNPxl1z-73" edge="1">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="lqy8UaG5r0MOgXNPxl1z-71" value="&lt;font color=&quot;#0a0a0a&quot;&gt;3.10截取5%给到普通奖金池去。&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1130" y="3490" width="120" height="110" as="geometry"/>
+        </mxCell>
+        <mxCell id="lqy8UaG5r0MOgXNPxl1z-76" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="lqy8UaG5r0MOgXNPxl1z-73" target="lqy8UaG5r0MOgXNPxl1z-75" edge="1">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="lqy8UaG5r0MOgXNPxl1z-73" value="&lt;font color=&quot;#0a0a0a&quot;&gt;4.1结算收益&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1130" y="3680" width="120" height="110" as="geometry"/>
+        </mxCell>
+        <mxCell id="lqy8UaG5r0MOgXNPxl1z-75" value="&lt;font color=&quot;#0a0a0a&quot;&gt;4.2资产dto,资产操作&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1130" y="3870" width="120" height="110" as="geometry"/>
+        </mxCell>
+        <mxCell id="lqy8UaG5r0MOgXNPxl1z-65" value="3.8字典的默认时间，一定大于租机的时间差。" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1330" y="3020" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="lqy8UaG5r0MOgXNPxl1z-30" value="&lt;h1&gt;矿机计算：&lt;/h1&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="760" y="1030" width="190" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="lqy8UaG5r0MOgXNPxl1z-51" value="新活动" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="1200" y="1590" width="40" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="lqy8UaG5r0MOgXNPxl1z-52" value="新版本计算收益价格：&lt;br&gt;涉及的表有：&lt;br&gt;dict_info&lt;br&gt;mining_profit&lt;br&gt;machine_lease" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="720" y="2150" width="280" height="270" as="geometry"/>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="dIlp_CwVWgKa-uNYfYRg" name="计算租机一级返佣">
+    <mxGraphModel dx="3062" dy="748" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="COe_yQE2rgo2cf8CeX7B-0"/>
+        <mxCell id="COe_yQE2rgo2cf8CeX7B-1" parent="COe_yQE2rgo2cf8CeX7B-0"/>
+        <mxCell id="COe_yQE2rgo2cf8CeX7B-2" value="&lt;div&gt;&amp;nbsp;m_profit_param（分群配置表）、&lt;/div&gt;&lt;div&gt;machine_lease（租机表）、&lt;br&gt;&lt;/div&gt;&lt;div&gt;member_relations（用户关系表）、&lt;br&gt;&lt;/div&gt;&lt;div&gt;distribution_record（分润记录表）&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="COe_yQE2rgo2cf8CeX7B-1">
+          <mxGeometry x="-1640" y="30" width="290" height="90" as="geometry"/>
+        </mxCell>
+        <mxCell id="COe_yQE2rgo2cf8CeX7B-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="COe_yQE2rgo2cf8CeX7B-1" source="COe_yQE2rgo2cf8CeX7B-3" target="COe_yQE2rgo2cf8CeX7B-4">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="COe_yQE2rgo2cf8CeX7B-3" value="1.查找用户的一级分润表" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="COe_yQE2rgo2cf8CeX7B-1">
+          <mxGeometry x="-1300" y="20" width="230" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="COe_yQE2rgo2cf8CeX7B-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="COe_yQE2rgo2cf8CeX7B-1" source="COe_yQE2rgo2cf8CeX7B-4" target="COe_yQE2rgo2cf8CeX7B-6">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="COe_yQE2rgo2cf8CeX7B-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="COe_yQE2rgo2cf8CeX7B-1" source="COe_yQE2rgo2cf8CeX7B-4" target="COe_yQE2rgo2cf8CeX7B-8">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="COe_yQE2rgo2cf8CeX7B-4" value="2.查找历史租机返佣" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="COe_yQE2rgo2cf8CeX7B-1">
+          <mxGeometry x="-1300" y="160" width="230" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="COe_yQE2rgo2cf8CeX7B-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="COe_yQE2rgo2cf8CeX7B-1" source="COe_yQE2rgo2cf8CeX7B-8" target="COe_yQE2rgo2cf8CeX7B-10">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="COe_yQE2rgo2cf8CeX7B-8" value="4.收集响应的id，整合成list" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="COe_yQE2rgo2cf8CeX7B-1">
+          <mxGeometry x="-1060" y="380" width="230" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="COe_yQE2rgo2cf8CeX7B-10" value="5.查找这些ld的租机情况" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="COe_yQE2rgo2cf8CeX7B-1">
+          <mxGeometry x="-1060" y="490" width="230" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="COe_yQE2rgo2cf8CeX7B-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="COe_yQE2rgo2cf8CeX7B-1" source="COe_yQE2rgo2cf8CeX7B-6" target="COe_yQE2rgo2cf8CeX7B-12">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="COe_yQE2rgo2cf8CeX7B-6" value="3.获取目前12（指定人数）的返佣比例，返回分佣比例值。添加到HashMap" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="COe_yQE2rgo2cf8CeX7B-1">
+          <mxGeometry x="-1300" y="270" width="230" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="COe_yQE2rgo2cf8CeX7B-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="COe_yQE2rgo2cf8CeX7B-1" source="COe_yQE2rgo2cf8CeX7B-12" target="COe_yQE2rgo2cf8CeX7B-14">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="COe_yQE2rgo2cf8CeX7B-12" value="6.遍历list,获取他们的parentid" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="COe_yQE2rgo2cf8CeX7B-1">
+          <mxGeometry x="-1300" y="570" width="230" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="COe_yQE2rgo2cf8CeX7B-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="COe_yQE2rgo2cf8CeX7B-1" source="COe_yQE2rgo2cf8CeX7B-14" target="COe_yQE2rgo2cf8CeX7B-16">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="COe_yQE2rgo2cf8CeX7B-14" value="7.根据推广人id,查出被推广人租了多少台矿机。" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="COe_yQE2rgo2cf8CeX7B-1">
+          <mxGeometry x="-1300" y="680" width="230" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="COe_yQE2rgo2cf8CeX7B-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="COe_yQE2rgo2cf8CeX7B-1" source="COe_yQE2rgo2cf8CeX7B-16" target="COe_yQE2rgo2cf8CeX7B-18">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="COe_yQE2rgo2cf8CeX7B-16" value="8.通过count来获取分佣的比例值，&lt;br&gt;如果超过最大比例，那就用最大比例那个，如果小于获取相应的值。&lt;br&gt;获取的值再乘以0.01" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="COe_yQE2rgo2cf8CeX7B-1">
+          <mxGeometry x="-1370" y="790" width="360" height="100" as="geometry"/>
+        </mxCell>
+        <mxCell id="COe_yQE2rgo2cf8CeX7B-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="COe_yQE2rgo2cf8CeX7B-1" source="COe_yQE2rgo2cf8CeX7B-18" target="COe_yQE2rgo2cf8CeX7B-20">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="COe_yQE2rgo2cf8CeX7B-18" value="9.遍历machinelease,获取单个machine的信息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="COe_yQE2rgo2cf8CeX7B-1">
+          <mxGeometry x="-1370" y="970" width="350" height="80" as="geometry"/>
+        </mxCell>
+        <mxCell id="COe_yQE2rgo2cf8CeX7B-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="COe_yQE2rgo2cf8CeX7B-1" source="COe_yQE2rgo2cf8CeX7B-20" target="COe_yQE2rgo2cf8CeX7B-22">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="COe_yQE2rgo2cf8CeX7B-20" value="10.租赁费用再乘以这个分佣比例值" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="COe_yQE2rgo2cf8CeX7B-1">
+          <mxGeometry x="-1370" y="1130" width="350" height="80" as="geometry"/>
+        </mxCell>
+        <mxCell id="COe_yQE2rgo2cf8CeX7B-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="COe_yQE2rgo2cf8CeX7B-1" source="COe_yQE2rgo2cf8CeX7B-22" target="COe_yQE2rgo2cf8CeX7B-24">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="COe_yQE2rgo2cf8CeX7B-22" value="11.通过id和时间查询是否租机，且租机数量为多少。(获取推广人是否有矿机在运行，没有的话不给推广人奖励)&lt;br&gt;如果这个值大于0：&lt;br&gt;1.设置一级分润金额&lt;br&gt;2.设置一级用户id号&lt;br&gt;3.设置一级分润比例" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="COe_yQE2rgo2cf8CeX7B-1">
+          <mxGeometry x="-1370" y="1290" width="350" height="110" as="geometry"/>
+        </mxCell>
+        <mxCell id="COe_yQE2rgo2cf8CeX7B-24" value="12.无论11查询的值是否大于0，设置机器序列号&lt;br&gt;设置币种单位为“”usdt“”&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="COe_yQE2rgo2cf8CeX7B-1">
+          <mxGeometry x="-1370" y="1450" width="350" height="80" as="geometry"/>
+        </mxCell>
+        <mxCell id="COe_yQE2rgo2cf8CeX7B-26" value="结算收益" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="COe_yQE2rgo2cf8CeX7B-1">
+          <mxGeometry x="-1640" y="1770" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="COe_yQE2rgo2cf8CeX7B-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="COe_yQE2rgo2cf8CeX7B-1" source="COe_yQE2rgo2cf8CeX7B-27" target="COe_yQE2rgo2cf8CeX7B-28">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="COe_yQE2rgo2cf8CeX7B-27" value="1、查询所有未删除的分润记录表。&lt;br&gt;如果小于0，则不做运算" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="COe_yQE2rgo2cf8CeX7B-1">
+          <mxGeometry x="-1330" y="1770" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="COe_yQE2rgo2cf8CeX7B-28" value="2.list的判断条件：&lt;br&gt;1）一级分润金额不为空&lt;br&gt;2）一级分润金额&amp;gt;0&lt;br&gt;3)一级用户的id不等于0,&lt;br&gt;就做一个结算的dto" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="COe_yQE2rgo2cf8CeX7B-1">
+          <mxGeometry x="-1330" y="1910" width="300" height="140" as="geometry"/>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="F_4bhL3YNjbDdDB3UuFP" name="矿机">
+    <mxGraphModel dx="1408" dy="748" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="hdtcOnJWGFGjBMwNFhLN-0"/>
+        <mxCell id="hdtcOnJWGFGjBMwNFhLN-1" parent="hdtcOnJWGFGjBMwNFhLN-0"/>
+        <mxCell id="hdtcOnJWGFGjBMwNFhLN-2" value="修改矿机状态" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="hdtcOnJWGFGjBMwNFhLN-1">
+          <mxGeometry x="20" y="40" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="hdtcOnJWGFGjBMwNFhLN-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="hdtcOnJWGFGjBMwNFhLN-1" source="hdtcOnJWGFGjBMwNFhLN-3" target="hdtcOnJWGFGjBMwNFhLN-4">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="hdtcOnJWGFGjBMwNFhLN-3" value="1.查询矿机状态为2，且没有被删除的矿机，时间间隔为3分钟之前的" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="hdtcOnJWGFGjBMwNFhLN-1">
+          <mxGeometry x="310" y="70" width="210" height="70" as="geometry"/>
+        </mxCell>
+        <mxCell id="hdtcOnJWGFGjBMwNFhLN-4" value="2.获取以上矿机，并将矿机的状态修改为1" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="hdtcOnJWGFGjBMwNFhLN-1">
+          <mxGeometry x="310" y="180" width="210" height="70" as="geometry"/>
+        </mxCell>
+        <mxCell id="hdtcOnJWGFGjBMwNFhLN-6" value="设置矿机过期" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="hdtcOnJWGFGjBMwNFhLN-1">
+          <mxGeometry x="10" y="370" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="hdtcOnJWGFGjBMwNFhLN-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="hdtcOnJWGFGjBMwNFhLN-1" source="hdtcOnJWGFGjBMwNFhLN-7" target="hdtcOnJWGFGjBMwNFhLN-8">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="hdtcOnJWGFGjBMwNFhLN-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="hdtcOnJWGFGjBMwNFhLN-1" source="hdtcOnJWGFGjBMwNFhLN-7" target="hdtcOnJWGFGjBMwNFhLN-14">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="hdtcOnJWGFGjBMwNFhLN-7" value="1.查询那些未删除、未过期且过期时间小于现在的机器" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="hdtcOnJWGFGjBMwNFhLN-1">
+          <mxGeometry x="340" y="470" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="hdtcOnJWGFGjBMwNFhLN-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="hdtcOnJWGFGjBMwNFhLN-1" source="hdtcOnJWGFGjBMwNFhLN-14" target="hdtcOnJWGFGjBMwNFhLN-16">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="hdtcOnJWGFGjBMwNFhLN-14" value="5.获取memberid号" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="hdtcOnJWGFGjBMwNFhLN-1">
+          <mxGeometry x="570" y="970" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="hdtcOnJWGFGjBMwNFhLN-16" value="6.通过id号，获取这些账号的FN资产" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="hdtcOnJWGFGjBMwNFhLN-1">
+          <mxGeometry x="570" y="1110" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="hdtcOnJWGFGjBMwNFhLN-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="hdtcOnJWGFGjBMwNFhLN-1" source="hdtcOnJWGFGjBMwNFhLN-8" target="hdtcOnJWGFGjBMwNFhLN-10">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="hdtcOnJWGFGjBMwNFhLN-8" value="2.收集这些机器的序列号" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="hdtcOnJWGFGjBMwNFhLN-1">
+          <mxGeometry x="340" y="610" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="hdtcOnJWGFGjBMwNFhLN-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="hdtcOnJWGFGjBMwNFhLN-1" source="hdtcOnJWGFGjBMwNFhLN-10" target="hdtcOnJWGFGjBMwNFhLN-12">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="hdtcOnJWGFGjBMwNFhLN-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="hdtcOnJWGFGjBMwNFhLN-1" source="hdtcOnJWGFGjBMwNFhLN-10" target="hdtcOnJWGFGjBMwNFhLN-20">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="hdtcOnJWGFGjBMwNFhLN-10" value="3.从矿机里面获取序列号list和没有删除的矿机" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="hdtcOnJWGFGjBMwNFhLN-1">
+          <mxGeometry x="340" y="750" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="hdtcOnJWGFGjBMwNFhLN-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="hdtcOnJWGFGjBMwNFhLN-1" source="hdtcOnJWGFGjBMwNFhLN-20" target="hdtcOnJWGFGjBMwNFhLN-22">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="hdtcOnJWGFGjBMwNFhLN-20" value="8.获取序列号一致、&lt;br&gt;memberid一致的list" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="hdtcOnJWGFGjBMwNFhLN-1">
+          <mxGeometry x="190" y="1312" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="hdtcOnJWGFGjBMwNFhLN-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="hdtcOnJWGFGjBMwNFhLN-1" source="hdtcOnJWGFGjBMwNFhLN-22" target="hdtcOnJWGFGjBMwNFhLN-24">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="hdtcOnJWGFGjBMwNFhLN-22" value="9.通过memberid获取资产信息" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="hdtcOnJWGFGjBMwNFhLN-1">
+          <mxGeometry x="190" y="1452" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="hdtcOnJWGFGjBMwNFhLN-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="hdtcOnJWGFGjBMwNFhLN-1" source="hdtcOnJWGFGjBMwNFhLN-24" target="hdtcOnJWGFGjBMwNFhLN-26">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="hdtcOnJWGFGjBMwNFhLN-24" value="10.获取分润金额、&lt;br&gt;获取资产保证金" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="hdtcOnJWGFGjBMwNFhLN-1">
+          <mxGeometry x="390" y="1452" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="hdtcOnJWGFGjBMwNFhLN-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="hdtcOnJWGFGjBMwNFhLN-1" source="hdtcOnJWGFGjBMwNFhLN-26" target="hdtcOnJWGFGjBMwNFhLN-28">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="hdtcOnJWGFGjBMwNFhLN-26" value="11.矿机保证金保存" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="hdtcOnJWGFGjBMwNFhLN-1">
+          <mxGeometry x="390" y="1592" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="hdtcOnJWGFGjBMwNFhLN-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="hdtcOnJWGFGjBMwNFhLN-1" source="hdtcOnJWGFGjBMwNFhLN-28" target="hdtcOnJWGFGjBMwNFhLN-30">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="hdtcOnJWGFGjBMwNFhLN-28" value="11.矿机保证金保存" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="hdtcOnJWGFGjBMwNFhLN-1">
+          <mxGeometry x="390" y="1732" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="hdtcOnJWGFGjBMwNFhLN-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="hdtcOnJWGFGjBMwNFhLN-1" source="hdtcOnJWGFGjBMwNFhLN-30" target="hdtcOnJWGFGjBMwNFhLN-32">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="hdtcOnJWGFGjBMwNFhLN-30" value="12.清空矿机" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="hdtcOnJWGFGjBMwNFhLN-1">
+          <mxGeometry x="390" y="1872" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="hdtcOnJWGFGjBMwNFhLN-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="hdtcOnJWGFGjBMwNFhLN-1" source="hdtcOnJWGFGjBMwNFhLN-32" target="hdtcOnJWGFGjBMwNFhLN-34">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="hdtcOnJWGFGjBMwNFhLN-32" value="13.设置租金表过期" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="hdtcOnJWGFGjBMwNFhLN-1">
+          <mxGeometry x="390" y="2012" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="hdtcOnJWGFGjBMwNFhLN-34" value="14.操作资产dto，调用接口。" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="hdtcOnJWGFGjBMwNFhLN-1">
+          <mxGeometry x="390" y="2152" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="hdtcOnJWGFGjBMwNFhLN-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="hdtcOnJWGFGjBMwNFhLN-1" source="hdtcOnJWGFGjBMwNFhLN-12" target="hdtcOnJWGFGjBMwNFhLN-18">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="hdtcOnJWGFGjBMwNFhLN-12" value="4.通过序列号，查询矿机保证金表。还有没有被删除，保证金还没有删除的数据" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="hdtcOnJWGFGjBMwNFhLN-1">
+          <mxGeometry x="340" y="890" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="hdtcOnJWGFGjBMwNFhLN-18" value="7.获取序列号一致、create_time一致、&lt;br&gt;memberid一致" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="hdtcOnJWGFGjBMwNFhLN-1">
+          <mxGeometry x="340" y="1190" width="120" height="60" as="geometry"/>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
