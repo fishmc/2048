@@ -1,1 +1,16 @@
-<mxfile host="www.draw.io" modified="2019-10-27T11:43:00.269Z" agent="Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.87 Safari/537.36" version="12.1.7" etag="z9cOQ9Iol42Gv4c2s1rd" type="github" pages="2"><diagram id="ReruoVnEcLjW7HmE7j3m">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="www.draw.io" modified="2019-10-27T11:47:10.486Z" agent="Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.87 Safari/537.36" etag="366n2cRG3WK36n7JwUeO" version="12.1.7" type="github" pages="1">
+  <diagram id="ReruoVnEcLjW7HmE7j3m" name="Page-1">
+    <mxGraphModel dx="1408" dy="748" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0"/>
+        <mxCell id="1" parent="0"/>
+        <mxCell id="a8ZLDZXQuLHwBiy5RcCI-3" value="&lt;span style=&quot;color: rgb(77 , 77 , 77) ; font-family: &amp;#34;microsoft yahei&amp;#34; , &amp;#34;sf pro display&amp;#34; , &amp;#34;roboto&amp;#34; , &amp;#34;noto&amp;#34; , &amp;#34;arial&amp;#34; , &amp;#34;pingfang sc&amp;#34; , sans-serif ; font-size: 16px ; white-space: normal ; background-color: rgb(255 , 255 , 255)&quot;&gt;在Spring环境初始化的时候，AbstractApplicationContext的&lt;/span&gt;&lt;span style=&quot;color: rgb(77 , 77 , 77) ; font-family: &amp;#34;microsoft yahei&amp;#34; , &amp;#34;sf pro display&amp;#34; , &amp;#34;roboto&amp;#34; , &amp;#34;noto&amp;#34; , &amp;#34;arial&amp;#34; , &amp;#34;pingfang sc&amp;#34; , sans-serif ; font-size: 16px ; background-color: rgb(255 , 255 , 255)&quot;&gt;prepareRefresh方法会被调用。&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="220" width="330" height="190" as="geometry"/>
+        </mxCell>
+        <mxCell id="a8ZLDZXQuLHwBiy5RcCI-4" value="&lt;h1&gt;Spring拓展：&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="10" y="120" width="170" height="50" as="geometry"/>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
