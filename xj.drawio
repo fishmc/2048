@@ -1,1 +1,72 @@
-<mxfile host="www.draw.io" modified="2019-11-18T09:18:23.920Z" agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.97 Safari/537.36" version="12.2.6" etag="iomOy2N_prlMgx1VDC5l" type="github"><diagram id="j9MH0ux9yzIdc7vEDvIM">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="www.draw.io" modified="2019-11-19T01:18:34.452Z" agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.97 Safari/537.36" etag="2RsEvJX3b-G2g4nEUR4X" version="12.2.6" type="github" pages="1">
+  <diagram id="j9MH0ux9yzIdc7vEDvIM" name="Page-1">
+    <mxGraphModel dx="1408" dy="748" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0"/>
+        <mxCell id="1" parent="0"/>
+        <mxCell id="Fp2JsyxYr-22lKmbhESy-1" value="&lt;h1&gt;活动&lt;/h1&gt;&lt;p&gt;活动时间在&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;font-size: 12pt&quot;&gt;2&lt;/span&gt;&lt;span style=&quot;font-size: 12pt&quot;&gt;019.11.20-2019.12.05&lt;/span&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="20" y="110" width="190" height="120" as="geometry"/>
+        </mxCell>
+        <mxCell id="Fp2JsyxYr-22lKmbhESy-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Fp2JsyxYr-22lKmbhESy-2" target="Fp2JsyxYr-22lKmbhESy-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="595" y="280" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Fp2JsyxYr-22lKmbhESy-2" value="现有用户&lt;br&gt;11月20号赠送一台矿机" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="525" y="130" width="140" height="70" as="geometry"/>
+        </mxCell>
+        <mxCell id="Fp2JsyxYr-22lKmbhESy-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Fp2JsyxYr-22lKmbhESy-5" target="Fp2JsyxYr-22lKmbhESy-10">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="805" y="375" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Fp2JsyxYr-22lKmbhESy-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Fp2JsyxYr-22lKmbhESy-5" target="Fp2JsyxYr-22lKmbhESy-12">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="Fp2JsyxYr-22lKmbhESy-5" value="活动期间推荐注册人数&amp;gt;5" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="505" y="300" width="180" height="110" as="geometry"/>
+        </mxCell>
+        <mxCell id="Fp2JsyxYr-22lKmbhESy-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Fp2JsyxYr-22lKmbhESy-12" target="Fp2JsyxYr-22lKmbhESy-16">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="780" y="560" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Fp2JsyxYr-22lKmbhESy-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Fp2JsyxYr-22lKmbhESy-12" target="Fp2JsyxYr-22lKmbhESy-17">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="Fp2JsyxYr-22lKmbhESy-12" value="10&amp;gt;活动期间注册人数&amp;gt;=6" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="490" y="510" width="210" height="100" as="geometry"/>
+        </mxCell>
+        <mxCell id="Fp2JsyxYr-22lKmbhESy-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Fp2JsyxYr-22lKmbhESy-17" target="Fp2JsyxYr-22lKmbhESy-21">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="780" y="740" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Fp2JsyxYr-22lKmbhESy-17" value="活动期间注册人数&amp;gt;=10" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="490" y="690" width="210" height="100" as="geometry"/>
+        </mxCell>
+        <mxCell id="Fp2JsyxYr-22lKmbhESy-10" value="1.有就到期发放收益，&lt;br&gt;2.没有就不发放收益" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="805" y="325" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="Fp2JsyxYr-22lKmbhESy-16" value="赠送两台" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="785" y="530" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="Fp2JsyxYr-22lKmbhESy-21" value="赠送两台矿机的收益" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="785" y="710" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="Fp2JsyxYr-22lKmbhESy-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Fp2JsyxYr-22lKmbhESy-22" target="Fp2JsyxYr-22lKmbhESy-23">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="Fp2JsyxYr-22lKmbhESy-22" value="新注册用户" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1000" y="180" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="Fp2JsyxYr-22lKmbhESy-23" value="赠送矿机" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1000" y="320" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="Fp2JsyxYr-22lKmbhESy-25" value="1.没有其他奖励，只有收益&lt;br&gt;2.赠送的矿机，没有租金和保证金&lt;br&gt;3.&lt;br&gt;&lt;br&gt;&lt;br&gt;只算直推的人员" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="55" y="260" width="305" height="390" as="geometry"/>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
