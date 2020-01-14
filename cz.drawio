@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2020-01-14T09:07:30.509Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 Safari/537.36" etag="IUJ--qBGYfJ8kR69ntkc" version="12.5.1" type="github" pages="5">
+<mxfile host="www.draw.io" modified="2020-01-14T09:07:45.329Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 Safari/537.36" etag="Yi70r9iUYhI-j8z8fEDb" version="12.5.1" type="github" pages="5">
   <diagram id="LEGvW6JbwHPqkR06rvY7" name="部门预算管理">
     <mxGraphModel dx="1038" dy="1717" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -487,7 +487,7 @@
       <root>
         <mxCell id="fgDxTal8d5D2_2s0utnZ-0"/>
         <mxCell id="fgDxTal8d5D2_2s0utnZ-1" parent="fgDxTal8d5D2_2s0utnZ-0"/>
-        <mxCell id="AkyRM0l4OpZGlXgyp-M6-0" value="单位信息管理" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="fgDxTal8d5D2_2s0utnZ-1">
+        <mxCell id="AkyRM0l4OpZGlXgyp-M6-0" value="部门预算管理" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="fgDxTal8d5D2_2s0utnZ-1">
           <mxGeometry x="20" y="120" width="120" height="60" as="geometry"/>
         </mxCell>
         <mxCell id="AkyRM0l4OpZGlXgyp-M6-1" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="fgDxTal8d5D2_2s0utnZ-1">
