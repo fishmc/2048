@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2020-01-14T07:41:59.022Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 Safari/537.36" etag="JlEJyhIJRh6NOacQSL1E" version="12.5.1" type="github" pages="10">
+<mxfile host="www.draw.io" modified="2020-01-14T07:44:25.868Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 Safari/537.36" etag="KOs7CGl29jL-sYjRKnGQ" version="12.5.1" type="github" pages="15">
   <diagram id="LEGvW6JbwHPqkR06rvY7" name="应用支撑平台">
     <mxGraphModel dx="1038" dy="548" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -39,19 +39,19 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="RFRlHiRyZsngIrUihwwt" name="综合指标管理">
-    <mxGraphModel dx="1038" dy="548" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
-      <root>
-        <mxCell id="408yzpOLp2tqGYDSpozX-0"/>
-        <mxCell id="408yzpOLp2tqGYDSpozX-1" parent="408yzpOLp2tqGYDSpozX-0"/>
-      </root>
-    </mxGraphModel>
-  </diagram>
   <diagram id="CqIFoessn6EBXEc0fLd8" name="国库集中支付管理">
     <mxGraphModel dx="1038" dy="548" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="IZqG9JL8MnJwwu8W28Ig-0"/>
         <mxCell id="IZqG9JL8MnJwwu8W28Ig-1" parent="IZqG9JL8MnJwwu8W28Ig-0"/>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="RFRlHiRyZsngIrUihwwt" name="综合指标管理">
+    <mxGraphModel dx="1038" dy="548" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="408yzpOLp2tqGYDSpozX-0"/>
+        <mxCell id="408yzpOLp2tqGYDSpozX-1" parent="408yzpOLp2tqGYDSpozX-0"/>
       </root>
     </mxGraphModel>
   </diagram>
@@ -76,6 +76,46 @@
       <root>
         <mxCell id="3Smt-nZUN_l6b_JOUqbA-0"/>
         <mxCell id="3Smt-nZUN_l6b_JOUqbA-1" parent="3Smt-nZUN_l6b_JOUqbA-0"/>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="CXTr06ZCptf37Qi5BESU" name="财政综合查询">
+    <mxGraphModel dx="1038" dy="548" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="-IBSlpbGPNwPISN2ynLy-0"/>
+        <mxCell id="-IBSlpbGPNwPISN2ynLy-1" parent="-IBSlpbGPNwPISN2ynLy-0"/>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="mnAjm385awrYRPWbpru1" name="省级在线动态监控">
+    <mxGraphModel dx="1038" dy="548" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="7fq5jyeceIgd3Gxa5Q1N-0"/>
+        <mxCell id="7fq5jyeceIgd3Gxa5Q1N-1" parent="7fq5jyeceIgd3Gxa5Q1N-0"/>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="7if6lewOXzuyS8LIvpVP" name="代管资金管理">
+    <mxGraphModel dx="1038" dy="548" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="sQ3q2nWczV7PoG3faqcs-0"/>
+        <mxCell id="sQ3q2nWczV7PoG3faqcs-1" parent="sQ3q2nWczV7PoG3faqcs-0"/>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="NUdLFMiM76WHvK_vyc2L" name="财政性资金发放管理">
+    <mxGraphModel dx="1038" dy="548" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="BxObHf7TZ3ho1SrVUloX-0"/>
+        <mxCell id="BxObHf7TZ3ho1SrVUloX-1" parent="BxObHf7TZ3ho1SrVUloX-0"/>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="FdE6C_yIOlFgIXYpXCBM" name="财政内控监督管理">
+    <mxGraphModel dx="1038" dy="548" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="pH7bz7zO4gSXSUexplVu-0"/>
+        <mxCell id="pH7bz7zO4gSXSUexplVu-1" parent="pH7bz7zO4gSXSUexplVu-0"/>
       </root>
     </mxGraphModel>
   </diagram>
