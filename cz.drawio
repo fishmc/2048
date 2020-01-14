@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2020-01-14T08:39:07.374Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 Safari/537.36" etag="H2McAHy6JjG978I5rinu" version="12.5.1" type="github" pages="2">
+<mxfile host="www.draw.io" modified="2020-01-14T08:59:25.350Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 Safari/537.36" etag="gkaioz_bNs8g9k1a6CVp" version="12.5.1" type="github" pages="3">
   <diagram id="LEGvW6JbwHPqkR06rvY7" name="部门预算管理">
     <mxGraphModel dx="1038" dy="1717" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -368,6 +368,116 @@
         </mxCell>
         <mxCell id="o3Ei3phpUVqzIaRaOg8V-40" value="项目结转查询" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="W4b67G5bWiVMQBZZJT2O-1">
           <mxGeometry x="370" y="460" width="60" height="40" as="geometry"/>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="mUx6k5d0fIjD8TGDEBiu" name="单位信息管理">
+    <mxGraphModel dx="1038" dy="1717" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="qbXLpqT7PU4m5fA9n6xv-0"/>
+        <mxCell id="qbXLpqT7PU4m5fA9n6xv-1" parent="qbXLpqT7PU4m5fA9n6xv-0"/>
+        <mxCell id="XDNCwGugm8_QRG59jcjQ-0" value="单位信息管理" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="qbXLpqT7PU4m5fA9n6xv-1">
+          <mxGeometry x="20" y="200" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="XDNCwGugm8_QRG59jcjQ-1" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="qbXLpqT7PU4m5fA9n6xv-1">
+          <mxGeometry x="150" y="-20" width="20" height="500" as="geometry"/>
+        </mxCell>
+        <mxCell id="XDNCwGugm8_QRG59jcjQ-42" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="qbXLpqT7PU4m5fA9n6xv-1" source="XDNCwGugm8_QRG59jcjQ-4" target="XDNCwGugm8_QRG59jcjQ-41">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="XDNCwGugm8_QRG59jcjQ-4" value="单位综合查询" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="qbXLpqT7PU4m5fA9n6xv-1">
+          <mxGeometry x="180" y="-20" width="60" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="XDNCwGugm8_QRG59jcjQ-41" value="单位基本信息" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="qbXLpqT7PU4m5fA9n6xv-1">
+          <mxGeometry x="290" y="-20" width="60" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="XDNCwGugm8_QRG59jcjQ-45" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="qbXLpqT7PU4m5fA9n6xv-1" source="XDNCwGugm8_QRG59jcjQ-43" target="XDNCwGugm8_QRG59jcjQ-44">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="XDNCwGugm8_QRG59jcjQ-43" value="单位编制信息" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="qbXLpqT7PU4m5fA9n6xv-1">
+          <mxGeometry x="180" y="30" width="60" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="XDNCwGugm8_QRG59jcjQ-47" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="qbXLpqT7PU4m5fA9n6xv-1" source="XDNCwGugm8_QRG59jcjQ-44" target="XDNCwGugm8_QRG59jcjQ-46">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="XDNCwGugm8_QRG59jcjQ-44" value="单位编制查询" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="qbXLpqT7PU4m5fA9n6xv-1">
+          <mxGeometry x="290" y="30" width="60" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="XDNCwGugm8_QRG59jcjQ-49" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="qbXLpqT7PU4m5fA9n6xv-1" source="XDNCwGugm8_QRG59jcjQ-46" target="XDNCwGugm8_QRG59jcjQ-48">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="XDNCwGugm8_QRG59jcjQ-46" value="单位编制数调整申请" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="qbXLpqT7PU4m5fA9n6xv-1">
+          <mxGeometry x="390" y="30" width="60" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="XDNCwGugm8_QRG59jcjQ-51" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="qbXLpqT7PU4m5fA9n6xv-1" source="XDNCwGugm8_QRG59jcjQ-48" target="XDNCwGugm8_QRG59jcjQ-50">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="XDNCwGugm8_QRG59jcjQ-48" value="单位编制数调整查询" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="qbXLpqT7PU4m5fA9n6xv-1">
+          <mxGeometry x="480" y="30" width="60" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="XDNCwGugm8_QRG59jcjQ-50" value="单位编制数调整审核" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="qbXLpqT7PU4m5fA9n6xv-1">
+          <mxGeometry x="570" y="30" width="60" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="XDNCwGugm8_QRG59jcjQ-54" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="qbXLpqT7PU4m5fA9n6xv-1" source="XDNCwGugm8_QRG59jcjQ-52" target="XDNCwGugm8_QRG59jcjQ-53">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="XDNCwGugm8_QRG59jcjQ-52" value="人员信息管理" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="qbXLpqT7PU4m5fA9n6xv-1">
+          <mxGeometry x="180" y="90" width="60" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="XDNCwGugm8_QRG59jcjQ-56" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="qbXLpqT7PU4m5fA9n6xv-1" source="XDNCwGugm8_QRG59jcjQ-53" target="XDNCwGugm8_QRG59jcjQ-55">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="XDNCwGugm8_QRG59jcjQ-53" value="人员信息查询" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="qbXLpqT7PU4m5fA9n6xv-1">
+          <mxGeometry x="290" y="90" width="60" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="XDNCwGugm8_QRG59jcjQ-58" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="qbXLpqT7PU4m5fA9n6xv-1" source="XDNCwGugm8_QRG59jcjQ-55" target="XDNCwGugm8_QRG59jcjQ-57">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="XDNCwGugm8_QRG59jcjQ-55" value="人员信息变更申请" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="qbXLpqT7PU4m5fA9n6xv-1">
+          <mxGeometry x="390" y="90" width="60" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="XDNCwGugm8_QRG59jcjQ-60" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="qbXLpqT7PU4m5fA9n6xv-1" source="XDNCwGugm8_QRG59jcjQ-57" target="XDNCwGugm8_QRG59jcjQ-59">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="XDNCwGugm8_QRG59jcjQ-57" value="人员信息变更审批" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="qbXLpqT7PU4m5fA9n6xv-1">
+          <mxGeometry x="480" y="90" width="60" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="XDNCwGugm8_QRG59jcjQ-62" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="qbXLpqT7PU4m5fA9n6xv-1" source="XDNCwGugm8_QRG59jcjQ-59" target="XDNCwGugm8_QRG59jcjQ-61">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="XDNCwGugm8_QRG59jcjQ-59" value="人员变更信息查询" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="qbXLpqT7PU4m5fA9n6xv-1">
+          <mxGeometry x="570" y="90" width="60" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="XDNCwGugm8_QRG59jcjQ-61" value="人员工资发放情况" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="qbXLpqT7PU4m5fA9n6xv-1">
+          <mxGeometry x="660" y="90" width="60" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="XDNCwGugm8_QRG59jcjQ-65" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="qbXLpqT7PU4m5fA9n6xv-1" source="XDNCwGugm8_QRG59jcjQ-63" target="XDNCwGugm8_QRG59jcjQ-64">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="XDNCwGugm8_QRG59jcjQ-63" value="单位基础数字表" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="qbXLpqT7PU4m5fA9n6xv-1">
+          <mxGeometry x="180" y="210" width="60" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="XDNCwGugm8_QRG59jcjQ-70" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="qbXLpqT7PU4m5fA9n6xv-1" source="XDNCwGugm8_QRG59jcjQ-64" target="XDNCwGugm8_QRG59jcjQ-69">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="XDNCwGugm8_QRG59jcjQ-64" value="固定资产管理" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="qbXLpqT7PU4m5fA9n6xv-1">
+          <mxGeometry x="290" y="210" width="60" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="XDNCwGugm8_QRG59jcjQ-69" value="资产管理" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="qbXLpqT7PU4m5fA9n6xv-1">
+          <mxGeometry x="400" y="210" width="60" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="XDNCwGugm8_QRG59jcjQ-66" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="qbXLpqT7PU4m5fA9n6xv-1">
+          <mxGeometry x="470" y="145" width="20" height="170" as="geometry"/>
+        </mxCell>
+        <mxCell id="XDNCwGugm8_QRG59jcjQ-74" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="qbXLpqT7PU4m5fA9n6xv-1" source="XDNCwGugm8_QRG59jcjQ-68" target="XDNCwGugm8_QRG59jcjQ-73">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="XDNCwGugm8_QRG59jcjQ-68" value="公务用车管理" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="qbXLpqT7PU4m5fA9n6xv-1">
+          <mxGeometry x="500" y="145" width="60" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="XDNCwGugm8_QRG59jcjQ-73" value="公务用车查询" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="qbXLpqT7PU4m5fA9n6xv-1">
+          <mxGeometry x="640" y="145" width="60" height="40" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
