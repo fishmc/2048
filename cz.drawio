@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2020-01-14T08:18:59.706Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 Safari/537.36" etag="2R2KNhltdMX-5rpfezoR" version="12.5.1" type="github">
+<mxfile host="www.draw.io" modified="2020-01-14T08:26:50.217Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 Safari/537.36" etag="QfeolkCrBw9XP8lkQLmV" version="12.5.1" type="github" pages="2">
   <diagram id="LEGvW6JbwHPqkR06rvY7" name="部门预算管理">
     <mxGraphModel dx="1038" dy="1717" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -49,8 +49,14 @@
         <mxCell id="PJDhCjgc1F2hU-g-aR-N-14" value="单位基本情况录入" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="180" y="240" width="60" height="40" as="geometry"/>
         </mxCell>
+        <mxCell id="PJDhCjgc1F2hU-g-aR-N-75" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="PJDhCjgc1F2hU-g-aR-N-64" target="PJDhCjgc1F2hU-g-aR-N-74">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
         <mxCell id="PJDhCjgc1F2hU-g-aR-N-64" value="单位综合查询" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="270" y="240" width="60" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="PJDhCjgc1F2hU-g-aR-N-74" value="单位预算汇总上报" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="240" width="60" height="40" as="geometry"/>
         </mxCell>
         <mxCell id="PJDhCjgc1F2hU-g-aR-N-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="PJDhCjgc1F2hU-g-aR-N-19" target="PJDhCjgc1F2hU-g-aR-N-21">
           <mxGeometry relative="1" as="geometry"/>
@@ -160,8 +166,14 @@
         <mxCell id="PJDhCjgc1F2hU-g-aR-N-56" value="非税收入计划编制" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="180" y="690" width="60" height="40" as="geometry"/>
         </mxCell>
+        <mxCell id="PJDhCjgc1F2hU-g-aR-N-72" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="PJDhCjgc1F2hU-g-aR-N-57" target="PJDhCjgc1F2hU-g-aR-N-71">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
         <mxCell id="PJDhCjgc1F2hU-g-aR-N-57" value="非税收入审核" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="280" y="690" width="60" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="PJDhCjgc1F2hU-g-aR-N-71" value="非税收入计划编制查询" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="370" y="690" width="60" height="40" as="geometry"/>
         </mxCell>
         <mxCell id="PJDhCjgc1F2hU-g-aR-N-61" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="PJDhCjgc1F2hU-g-aR-N-59" target="PJDhCjgc1F2hU-g-aR-N-60">
           <mxGeometry relative="1" as="geometry"/>
@@ -172,6 +184,68 @@
         <mxCell id="PJDhCjgc1F2hU-g-aR-N-60" value="单位项目申报" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="280" y="740" width="60" height="40" as="geometry"/>
         </mxCell>
+        <mxCell id="PJDhCjgc1F2hU-g-aR-N-68" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="PJDhCjgc1F2hU-g-aR-N-66" target="PJDhCjgc1F2hU-g-aR-N-67">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="PJDhCjgc1F2hU-g-aR-N-66" value="公共项目支出预算代编" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="790" width="60" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="PJDhCjgc1F2hU-g-aR-N-70" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="PJDhCjgc1F2hU-g-aR-N-67" target="PJDhCjgc1F2hU-g-aR-N-69">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="PJDhCjgc1F2hU-g-aR-N-67" value="公共项目支出预算代编审核" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="790" width="60" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="PJDhCjgc1F2hU-g-aR-N-69" value="公共项目支出预算代编查询" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="370" y="790" width="60" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="PJDhCjgc1F2hU-g-aR-N-73" value="会议费及三公经费" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="840" width="60" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="PJDhCjgc1F2hU-g-aR-N-78" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="PJDhCjgc1F2hU-g-aR-N-76" target="PJDhCjgc1F2hU-g-aR-N-77">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="PJDhCjgc1F2hU-g-aR-N-76" value="基本支出代编" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="130" width="60" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="PJDhCjgc1F2hU-g-aR-N-80" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="PJDhCjgc1F2hU-g-aR-N-77" target="PJDhCjgc1F2hU-g-aR-N-79">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="PJDhCjgc1F2hU-g-aR-N-77" value="基本支出代编变更" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="450" y="130" width="60" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="PJDhCjgc1F2hU-g-aR-N-82" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="PJDhCjgc1F2hU-g-aR-N-79" target="PJDhCjgc1F2hU-g-aR-N-81">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="PJDhCjgc1F2hU-g-aR-N-79" value="基本支出代编变更审核" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="540" y="130" width="60" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="PJDhCjgc1F2hU-g-aR-N-84" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="PJDhCjgc1F2hU-g-aR-N-81" target="PJDhCjgc1F2hU-g-aR-N-83">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="PJDhCjgc1F2hU-g-aR-N-81" value="基本支出代编查询" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="630" y="130" width="60" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="PJDhCjgc1F2hU-g-aR-N-86" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="PJDhCjgc1F2hU-g-aR-N-83" target="PJDhCjgc1F2hU-g-aR-N-85">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="PJDhCjgc1F2hU-g-aR-N-83" value="基本支出代编审核" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="720" y="130" width="60" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="PJDhCjgc1F2hU-g-aR-N-85" value="基本支出代编编制" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="810" y="130" width="60" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="PJDhCjgc1F2hU-g-aR-N-87" value="一月份工资查询" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="940" width="60" height="40" as="geometry"/>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="_J4SmMktSl2NPoh6Ricv" name="Page-2">
+    <mxGraphModel dx="1038" dy="548" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="W4b67G5bWiVMQBZZJT2O-0"/>
+        <mxCell id="W4b67G5bWiVMQBZZJT2O-1" parent="W4b67G5bWiVMQBZZJT2O-0"/>
       </root>
     </mxGraphModel>
   </diagram>
