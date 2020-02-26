@@ -1,6 +1,6 @@
-<mxfile host="www.draw.io" modified="2020-02-25T09:19:38.614Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.122 Safari/537.36" etag="h4gPIysRKpjq1wQJDKBE" version="12.7.4" type="github" pages="2">
+<mxfile host="www.draw.io" modified="2020-02-26T07:50:58.012Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.122 Safari/537.36" etag="dfncAUgF219iUp9Z9gcT" version="12.7.6" type="github" pages="2">
   <diagram id="HkGlKc78KBtHRssMEzeH" name="Page-1">
-    <mxGraphModel dx="2012" dy="606" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1973" dy="525" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -566,7 +566,7 @@
         <mxCell id="7ISRViT4Iz3FpHv93xdh-194" value="&lt;h1&gt;基础信息库和项目库是预算业务的源头&lt;/h1&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="430" y="2440" width="440" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="zT4qobYxFt3e81a9qZ1f-1" value="&lt;h1&gt;国库集中支付管理系统&lt;/h1&gt;&lt;p&gt;1、基本支出&lt;/p&gt;&lt;p&gt;2、项目支出&lt;br&gt;&lt;/p&gt;&lt;p&gt;3、按月额度生成&lt;/p&gt;&lt;p&gt;4、一卡通业务管理&lt;/p&gt;&lt;p&gt;5、公务卡管理系统&lt;/p&gt;&lt;p&gt;6、授权额度下达管理&lt;/p&gt;&lt;p&gt;7、直接支付管理&lt;/p&gt;&lt;p&gt;8、统发工资管理&lt;/p&gt;&lt;p&gt;9、财政拨款管理&lt;/p&gt;&lt;p&gt;10、清算管理&lt;/p&gt;&lt;p&gt;11、退款、退票管理&lt;/p&gt;&lt;p&gt;12、集中支付单据管理&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+        <mxCell id="zT4qobYxFt3e81a9qZ1f-1" value="&lt;h1&gt;国库集中支付管理系统&lt;/h1&gt;&lt;p&gt;1、基本支出&lt;/p&gt;&lt;p&gt;2、项目支出&lt;br&gt;&lt;/p&gt;&lt;p&gt;3、按月额度生成&lt;/p&gt;&lt;p&gt;4、一卡通业务管理&lt;/p&gt;&lt;p&gt;5、公务卡管理系统&lt;/p&gt;&lt;p&gt;6、授权额度下达管理&lt;/p&gt;&lt;p&gt;7、直接支付管理&lt;/p&gt;&lt;p&gt;8、统发工资管理&lt;/p&gt;&lt;p&gt;9、财政拨款管理&lt;/p&gt;&lt;p&gt;10、清算管理&lt;/p&gt;&lt;p&gt;11、退款、退票管理&lt;/p&gt;&lt;p&gt;12、集中支付单据管理&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="567" y="230" width="253" height="350" as="geometry" />
         </mxCell>
       </root>
