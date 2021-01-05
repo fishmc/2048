@@ -1,1 +1,216 @@
-<mxfile host="app.diagrams.net" modified="2021-01-05T01:30:15.717Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4356.6 Safari/537.36" version="14.1.8" etag="6IHHsTohrNcMx3LePxxN" type="github"><diagram id="7I5QM-9bfT85RC3jq2rz">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-01-05T03:24:07.552Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4356.6 Safari/537.36" etag="kzclbpuufZs0auBSROlB" version="14.1.8" type="github" pages="2">
+  <diagram id="7I5QM-9bfT85RC3jq2rz" name="国库股">
+    <mxGraphModel dx="1038" dy="548" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="ab1FxDnPH_C_DmLX42ds-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;verticalAlign=middle;" edge="1" parent="1" source="ab1FxDnPH_C_DmLX42ds-1" target="ab1FxDnPH_C_DmLX42ds-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ab1FxDnPH_C_DmLX42ds-1" value="业务股制单" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="60" y="90" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ab1FxDnPH_C_DmLX42ds-2" value="&lt;b&gt;&lt;font style=&quot;font-size: 19px&quot;&gt;财政拨款流程：&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="30" y="50" width="140" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ab1FxDnPH_C_DmLX42ds-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;verticalAlign=middle;" edge="1" parent="1" source="ab1FxDnPH_C_DmLX42ds-3" target="ab1FxDnPH_C_DmLX42ds-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ab1FxDnPH_C_DmLX42ds-3" value="业务股长审批" style="whiteSpace=wrap;html=1;rounded=1;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="210" y="90" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ab1FxDnPH_C_DmLX42ds-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;verticalAlign=middle;" edge="1" parent="1" source="ab1FxDnPH_C_DmLX42ds-5" target="ab1FxDnPH_C_DmLX42ds-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ab1FxDnPH_C_DmLX42ds-5" value="国库总算会计审批" style="whiteSpace=wrap;html=1;rounded=1;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="354" y="90" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ab1FxDnPH_C_DmLX42ds-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;verticalAlign=middle;" edge="1" parent="1" source="ab1FxDnPH_C_DmLX42ds-7" target="ab1FxDnPH_C_DmLX42ds-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ab1FxDnPH_C_DmLX42ds-7" value="国库股长审批" style="whiteSpace=wrap;html=1;rounded=1;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="500" y="90" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ab1FxDnPH_C_DmLX42ds-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;verticalAlign=middle;" edge="1" parent="1" source="ab1FxDnPH_C_DmLX42ds-9" target="ab1FxDnPH_C_DmLX42ds-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ab1FxDnPH_C_DmLX42ds-9" value="银行" style="whiteSpace=wrap;html=1;rounded=1;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="660" y="90" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ab1FxDnPH_C_DmLX42ds-11" value="国库股长审批" style="whiteSpace=wrap;html=1;rounded=1;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="660" y="190" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ab1FxDnPH_C_DmLX42ds-14" value="&lt;b&gt;&lt;font style=&quot;font-size: 19px&quot;&gt;授权支付流程：&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="30" y="360" width="140" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ab1FxDnPH_C_DmLX42ds-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;verticalAlign=middle;" edge="1" parent="1" source="ab1FxDnPH_C_DmLX42ds-15" target="ab1FxDnPH_C_DmLX42ds-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ab1FxDnPH_C_DmLX42ds-15" value="单位制用款计划&lt;br&gt;（经办、审批）" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="40" y="400" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ab1FxDnPH_C_DmLX42ds-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;verticalAlign=middle;" edge="1" parent="1" source="ab1FxDnPH_C_DmLX42ds-16" target="ab1FxDnPH_C_DmLX42ds-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ab1FxDnPH_C_DmLX42ds-16" value="业务股&lt;br&gt;（经办、审批）" style="whiteSpace=wrap;html=1;rounded=1;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="200" y="400" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ab1FxDnPH_C_DmLX42ds-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;verticalAlign=middle;" edge="1" parent="1" source="ab1FxDnPH_C_DmLX42ds-18" target="ab1FxDnPH_C_DmLX42ds-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ab1FxDnPH_C_DmLX42ds-18" value="国库总算会计审批" style="whiteSpace=wrap;html=1;rounded=1;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="350" y="400" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ab1FxDnPH_C_DmLX42ds-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;verticalAlign=middle;" edge="1" parent="1" source="ab1FxDnPH_C_DmLX42ds-20" target="ab1FxDnPH_C_DmLX42ds-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ab1FxDnPH_C_DmLX42ds-20" value="国库股长审批" style="whiteSpace=wrap;html=1;rounded=1;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="490" y="400" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ab1FxDnPH_C_DmLX42ds-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;verticalAlign=middle;" edge="1" parent="1" source="ab1FxDnPH_C_DmLX42ds-22" target="ab1FxDnPH_C_DmLX42ds-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ab1FxDnPH_C_DmLX42ds-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;verticalAlign=middle;" edge="1" parent="1" source="ab1FxDnPH_C_DmLX42ds-22" target="ab1FxDnPH_C_DmLX42ds-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ab1FxDnPH_C_DmLX42ds-22" value="支付中心额度单" style="whiteSpace=wrap;html=1;rounded=1;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="650" y="400" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ab1FxDnPH_C_DmLX42ds-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;verticalAlign=middle;" edge="1" parent="1" source="ab1FxDnPH_C_DmLX42ds-24" target="ab1FxDnPH_C_DmLX42ds-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ab1FxDnPH_C_DmLX42ds-24" value="审核工单" style="whiteSpace=wrap;html=1;rounded=1;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="650" y="500" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ab1FxDnPH_C_DmLX42ds-26" value="知会给到单位" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;rounded=1;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="700" y="310" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ab1FxDnPH_C_DmLX42ds-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;verticalAlign=middle;" edge="1" parent="1" source="ab1FxDnPH_C_DmLX42ds-28" target="ab1FxDnPH_C_DmLX42ds-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ab1FxDnPH_C_DmLX42ds-28" value="复核工单" style="whiteSpace=wrap;html=1;rounded=1;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="500" y="500" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ab1FxDnPH_C_DmLX42ds-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;verticalAlign=middle;" edge="1" parent="1" source="ab1FxDnPH_C_DmLX42ds-30" target="ab1FxDnPH_C_DmLX42ds-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ab1FxDnPH_C_DmLX42ds-30" value="制清算单" style="whiteSpace=wrap;html=1;rounded=1;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="350" y="500" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ab1FxDnPH_C_DmLX42ds-32" value="国库股股长审核" style="whiteSpace=wrap;html=1;rounded=1;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="200" y="500" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ab1FxDnPH_C_DmLX42ds-34" value="&lt;b&gt;&lt;font style=&quot;font-size: 19px&quot;&gt;直接支付流程：&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="40" y="610" width="140" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ab1FxDnPH_C_DmLX42ds-37" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;verticalAlign=middle;" edge="1" parent="1" source="ab1FxDnPH_C_DmLX42ds-35" target="ab1FxDnPH_C_DmLX42ds-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ab1FxDnPH_C_DmLX42ds-35" value="预算下达指标" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="40" y="650" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ab1FxDnPH_C_DmLX42ds-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;verticalAlign=middle;" edge="1" parent="1" source="ab1FxDnPH_C_DmLX42ds-36" target="ab1FxDnPH_C_DmLX42ds-38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ab1FxDnPH_C_DmLX42ds-36" value="单位直接单位&lt;br&gt;（申请书）" style="whiteSpace=wrap;html=1;rounded=1;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="200" y="650" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ab1FxDnPH_C_DmLX42ds-41" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;verticalAlign=middle;" edge="1" parent="1" source="ab1FxDnPH_C_DmLX42ds-38" target="ab1FxDnPH_C_DmLX42ds-40">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ab1FxDnPH_C_DmLX42ds-38" value="业务股&lt;br&gt;（经办、股长）" style="whiteSpace=wrap;html=1;rounded=1;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="360" y="650" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ab1FxDnPH_C_DmLX42ds-43" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;verticalAlign=middle;" edge="1" parent="1" source="ab1FxDnPH_C_DmLX42ds-40" target="ab1FxDnPH_C_DmLX42ds-42">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ab1FxDnPH_C_DmLX42ds-40" value="国库总算会计" style="whiteSpace=wrap;html=1;rounded=1;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="510" y="650" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ab1FxDnPH_C_DmLX42ds-45" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;verticalAlign=middle;" edge="1" parent="1" source="ab1FxDnPH_C_DmLX42ds-42" target="ab1FxDnPH_C_DmLX42ds-44">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ab1FxDnPH_C_DmLX42ds-42" value="国库股股长审批" style="whiteSpace=wrap;html=1;rounded=1;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="660" y="650" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ab1FxDnPH_C_DmLX42ds-47" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;verticalAlign=middle;" edge="1" parent="1" source="ab1FxDnPH_C_DmLX42ds-44" target="ab1FxDnPH_C_DmLX42ds-46">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ab1FxDnPH_C_DmLX42ds-44" value="支付凭证" style="whiteSpace=wrap;html=1;rounded=1;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="660" y="750" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ab1FxDnPH_C_DmLX42ds-46" value="支付中心会计" style="whiteSpace=wrap;html=1;rounded=1;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="510" y="750" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ab1FxDnPH_C_DmLX42ds-51" value="&lt;b style=&quot;text-align: center&quot;&gt;&lt;font style=&quot;font-size: 19px&quot;&gt;退票、退票流程：&lt;/font&gt;&lt;/b&gt;&lt;h1&gt;&lt;span style=&quot;font-size: 12px ; font-weight: normal&quot;&gt;退票银行信息不对称，&lt;/span&gt;&lt;br&gt;&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="40" y="860" width="190" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="ab1FxDnPH_C_DmLX42ds-52" value="&lt;b style=&quot;text-align: center&quot;&gt;&lt;font style=&quot;font-size: 19px&quot;&gt;公务卡数据导入：&lt;/font&gt;&lt;/b&gt;&lt;h1&gt;&lt;span style=&quot;font-size: 12px ; font-weight: normal&quot;&gt;导入相对应的数据格式&lt;/span&gt;&lt;br&gt;&lt;/h1&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px ; font-weight: normal&quot;&gt;原有系统数据格式（没有开户行、身份证）&lt;/span&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="270" y="860" width="190" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="ab1FxDnPH_C_DmLX42ds-53" value="&lt;b style=&quot;text-align: center&quot;&gt;&lt;font style=&quot;font-size: 19px&quot;&gt;乡镇改革：&lt;/font&gt;&lt;/b&gt;&lt;h1&gt;&lt;span style=&quot;font-size: 12px ; font-weight: normal&quot;&gt;没有财政所&lt;/span&gt;&lt;br&gt;&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="510" y="860" width="190" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="ab1FxDnPH_C_DmLX42ds-54" value="&lt;b style=&quot;text-align: center&quot;&gt;&lt;font style=&quot;font-size: 19px&quot;&gt;工资走直接支付：&lt;/font&gt;&lt;/b&gt;&lt;h1&gt;&lt;span style=&quot;font-size: 12px ; font-weight: 400&quot;&gt;走建行。&lt;/span&gt;&lt;/h1&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px ; font-weight: 400&quot;&gt;1.人社局做工资盘-&amp;gt;行政股-&amp;gt;下达指标&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px ; font-weight: 400&quot;&gt;2.行政-&amp;gt;数据导入，导入的格式&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px ; font-weight: 400&quot;&gt;3.工资调整，人社发起&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px ; font-weight: 400&quot;&gt;4.聘员走经费，不入工资盘&lt;/span&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="30" y="1020" width="260" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="ab1FxDnPH_C_DmLX42ds-56" value="&lt;b style=&quot;text-align: center&quot;&gt;&lt;font style=&quot;font-size: 19px&quot;&gt;问题点：&lt;/font&gt;&lt;/b&gt;&lt;h1&gt;&lt;br&gt;&lt;/h1&gt;&lt;h1&gt;&lt;span style=&quot;font-size: 12px ; font-weight: 400&quot;&gt;1.零余额海丰农商行，工资卡是中行、建行&lt;/span&gt;&lt;/h1&gt;&lt;h1&gt;&lt;span style=&quot;font-size: 12px ; font-weight: 400&quot;&gt;2.转账的手续费问题&lt;/span&gt;&lt;/h1&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px ; font-weight: 400&quot;&gt;3.ukey，别的地方是怎么做的。&lt;/span&gt;&lt;/div&gt;&lt;div&gt;是否需要收集每个单位对应的申请岗和审核岗&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px ; font-weight: 400&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="270" y="1030" width="260" height="250" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="4DAzoeZzEiQJjoCcSwi6" name="预算股">
+    <mxGraphModel dx="1038" dy="548" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
+      <root>
+        <mxCell id="BVKmvSPiLSsu1gIE6xRd-0" />
+        <mxCell id="BVKmvSPiLSsu1gIE6xRd-1" parent="BVKmvSPiLSsu1gIE6xRd-0" />
+        <mxCell id="sPbIVA4KZzyD4b3r_utM-0" value="&lt;b&gt;&lt;font style=&quot;font-size: 19px&quot;&gt;本级资金流程：&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="BVKmvSPiLSsu1gIE6xRd-1">
+          <mxGeometry x="30" y="50" width="140" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="sPbIVA4KZzyD4b3r_utM-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="BVKmvSPiLSsu1gIE6xRd-1" source="sPbIVA4KZzyD4b3r_utM-1" target="sPbIVA4KZzyD4b3r_utM-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sPbIVA4KZzyD4b3r_utM-1" value="预算股室" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="BVKmvSPiLSsu1gIE6xRd-1">
+          <mxGeometry x="70" y="90" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="sPbIVA4KZzyD4b3r_utM-2" value="单位" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="BVKmvSPiLSsu1gIE6xRd-1">
+          <mxGeometry x="270" y="90" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="sPbIVA4KZzyD4b3r_utM-4" value="下达" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="BVKmvSPiLSsu1gIE6xRd-1">
+          <mxGeometry x="210" y="90" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="sPbIVA4KZzyD4b3r_utM-5" value="&lt;b&gt;&lt;font style=&quot;font-size: 19px&quot;&gt;上级资金流程：&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="BVKmvSPiLSsu1gIE6xRd-1">
+          <mxGeometry x="30" y="190" width="140" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="sPbIVA4KZzyD4b3r_utM-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="BVKmvSPiLSsu1gIE6xRd-1" source="sPbIVA4KZzyD4b3r_utM-6" target="sPbIVA4KZzyD4b3r_utM-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sPbIVA4KZzyD4b3r_utM-6" value="资金管理模块" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="BVKmvSPiLSsu1gIE6xRd-1">
+          <mxGeometry x="70" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="sPbIVA4KZzyD4b3r_utM-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="BVKmvSPiLSsu1gIE6xRd-1" source="sPbIVA4KZzyD4b3r_utM-7" target="sPbIVA4KZzyD4b3r_utM-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sPbIVA4KZzyD4b3r_utM-7" value="股室" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="BVKmvSPiLSsu1gIE6xRd-1">
+          <mxGeometry x="240" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="sPbIVA4KZzyD4b3r_utM-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="BVKmvSPiLSsu1gIE6xRd-1" source="sPbIVA4KZzyD4b3r_utM-9" target="sPbIVA4KZzyD4b3r_utM-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sPbIVA4KZzyD4b3r_utM-9" value="预算股&lt;br&gt;（经办、审核）" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="BVKmvSPiLSsu1gIE6xRd-1">
+          <mxGeometry x="440" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="sPbIVA4KZzyD4b3r_utM-11" value="股室&lt;br&gt;（指标）" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="BVKmvSPiLSsu1gIE6xRd-1">
+          <mxGeometry x="620" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="sPbIVA4KZzyD4b3r_utM-13" value="下达" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="BVKmvSPiLSsu1gIE6xRd-1">
+          <mxGeometry x="566" y="241" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="sPbIVA4KZzyD4b3r_utM-16" value="&lt;h1&gt;问题点&lt;/h1&gt;&lt;p&gt;1.无指标拨款，社保居多（市统筹、海丰列支）&lt;/p&gt;&lt;p&gt;2.导入省厅系统，额度收回，确认数据完整&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="BVKmvSPiLSsu1gIE6xRd-1">
+          <mxGeometry x="70" y="410" width="190" height="120" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
