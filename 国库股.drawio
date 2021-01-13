@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-01-13T09:51:27.313Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4356.6 Safari/537.36" etag="VdA_Ub_t0DCkaJQQf9bi" version="14.1.8" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-01-13T09:52:44.805Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4356.6 Safari/537.36" etag="zzTni7J--gUpCKHI7gL1" version="14.1.8" type="github" pages="2">
   <diagram id="7I5QM-9bfT85RC3jq2rz" name="国库股">
     <mxGraphModel dx="1038" dy="548" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
       <root>
@@ -231,6 +231,9 @@
         <mxCell id="crHGxQ3-pzwOvsC7fmfm-5" value="下达&lt;br&gt;股室指标" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="BVKmvSPiLSsu1gIE6xRd-1">
           <mxGeometry x="340" y="650" width="50" height="20" as="geometry" />
         </mxCell>
+        <mxCell id="crHGxQ3-pzwOvsC7fmfm-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="BVKmvSPiLSsu1gIE6xRd-1" source="crHGxQ3-pzwOvsC7fmfm-6" target="crHGxQ3-pzwOvsC7fmfm-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="crHGxQ3-pzwOvsC7fmfm-6" value="单位" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="BVKmvSPiLSsu1gIE6xRd-1">
           <mxGeometry x="580" y="650" width="120" height="60" as="geometry" />
         </mxCell>
@@ -241,10 +244,22 @@
           <mxGeometry x="40" y="610" width="140" height="20" as="geometry" />
         </mxCell>
         <mxCell id="crHGxQ3-pzwOvsC7fmfm-11" value="&lt;span style=&quot;font-size: 19px&quot;&gt;&lt;b&gt;指标调剂：&lt;/b&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="BVKmvSPiLSsu1gIE6xRd-1">
-          <mxGeometry x="40" y="740" width="140" height="20" as="geometry" />
+          <mxGeometry x="40" y="840" width="140" height="20" as="geometry" />
         </mxCell>
         <mxCell id="crHGxQ3-pzwOvsC7fmfm-12" value="口头沟通" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="BVKmvSPiLSsu1gIE6xRd-1">
-          <mxGeometry x="170" y="740" width="100" height="20" as="geometry" />
+          <mxGeometry x="170" y="840" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="crHGxQ3-pzwOvsC7fmfm-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="BVKmvSPiLSsu1gIE6xRd-1" source="crHGxQ3-pzwOvsC7fmfm-14" target="crHGxQ3-pzwOvsC7fmfm-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="crHGxQ3-pzwOvsC7fmfm-14" value="送至业务股" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="BVKmvSPiLSsu1gIE6xRd-1">
+          <mxGeometry x="580" y="750" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="crHGxQ3-pzwOvsC7fmfm-16" value="打单（纸质）" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="BVKmvSPiLSsu1gIE6xRd-1">
+          <mxGeometry x="650" y="720" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="crHGxQ3-pzwOvsC7fmfm-17" value="国库股" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="BVKmvSPiLSsu1gIE6xRd-1">
+          <mxGeometry x="400" y="750" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
